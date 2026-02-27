@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.top4top.io/p_36893h84f1.jpg" width="250"/>
+  <img src="https://j.top4top.io/p_371056lvj1.jpg" width="250"/>
 </p>
 
 <h1 align="center">Modified WhatsApp Baileys</h1>
@@ -17,7 +17,7 @@ This library is highly suitable for building business bots, chat automation syst
 ## Usage
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:vinzeph/baileys"
+  "@whiskeysockets/baileys": "github:liliyzeph/baileys"
 }
 ```
 ## Import
